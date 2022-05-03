@@ -135,6 +135,7 @@ p2{
 .intro h2{
     font-size: medium;
     margin-bottom: 20px;
+    color: blueviolet;
 }
 .photos{
     display: flex;
