@@ -1,8 +1,15 @@
 # JS-portfolio
-Title:
+
+## Title:
 Js Portfolio Website
 
-Description:
+## Description:
 This is a coding project portfolio.
 
-This project consist of CSS and HTML.
+
+Technologies Used:
+* CSS 
+* HTML
+
+Link to deployed application:
+
