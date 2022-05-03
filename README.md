@@ -14,3 +14,7 @@ Technologies Used:
 Link to deployed application:
 
 https://jaysmith13.github.io/JS-portfolio/
+
+## Screenshot:
+
+![portfolio](https://user-images.githubusercontent.com/99004555/166397114-1af3884f-fc30-45c4-973d-f292e3b97103.png)
